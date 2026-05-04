@@ -3,7 +3,7 @@
 Sou estudante de **Ciência da Computação** e desenvolvedor com foco em **Back-End e Dados**, apaixonado por resolver problemas complexos e construir soluções escaláveis 
 
 📍 Fortaleza - CE  
-🎓 Universidade de Fortaleza (UNIFOR)  
+🎓 [Universidade de Fortaleza (UNIFOR)](https://www.unifor.br)
 
 ---
 
