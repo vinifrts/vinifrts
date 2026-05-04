@@ -37,18 +37,6 @@ Sou estudante de **Ciência da Computação** e desenvolvedor com foco em **Back
 
 ---
 
-## Projetos em Destaque
-
--  **NBA Salary and Performance Analysis**  
--  **Preservação Digital UNIFOR (AtoM)**  
--  **NossoBolso (Bot Telegram)**  
--  **Aplicativo de Registro de Ponto**  
--  **Sistema Web de Estacionamento**  
--  **Rede Ciberfísica com ESP32**  
--  **PageRank em Java**  
-
----
-
 ## Conhecimentos
 
 - Análise de Algoritmos  
