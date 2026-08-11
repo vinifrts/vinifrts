@@ -53,13 +53,13 @@ Sou estudante de **Ciência da Computação** e desenvolvedor com foco em **Back
 
 ## Certificações
 
-- Mentalidade de Startup — Wadhwani Foundation  
-- Comunicação Online e Segurança de Dados — Wadhwani Foundation  
-- Pensamento Computacional — Alura  
-- Back-End Java — Alura  
-- Matemática para Data Science — Alura  
-- Python para Data Science — Alura  
-- UX/UI Design — UNIFOR  
+- Mentalidade de Startup (Wadhwani Foundation)  
+- Comunicação Online e Segurança de Dados (Wadhwani Foundation)  
+- Pensamento Computacional (Alura)  
+- Back-End Java (Alura)  
+- Matemática para Data Science (Alura)  
+- Python para Data Science (Alura)  
+- UX/UI Design (UNIFOR)  
 
 ---
 
